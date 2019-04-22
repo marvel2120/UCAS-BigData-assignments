@@ -4,4 +4,5 @@ hw1: 使用Docker，搭建环境。从HDFS中读取数据，代码实现类似SQ
 
 hw2: 
 part1: Hadoop编程，MapReduce计算每对source-destination的平均时长
+
 part2: 同步图计算，调用GraphLite API计算图中各类三角形数量
